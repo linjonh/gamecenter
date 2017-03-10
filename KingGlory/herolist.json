@@ -1,461 +1,739 @@
 [
     {
+        "new_type": 1,
         "ename": 191,
         "cname": "大乔",
-        "title": "沧海之曜",
         "hero_type": 6,
-        "new_type": 1
+        "title": "沧海之曜"
     },
     {
+        "new_type": 0,
         "ename": 192,
         "cname": "黄忠",
-        "title": "燃魂重炮",
         "hero_type": 5,
-        "new_type": 0
+        "title": "燃魂重炮"
     },
     {
+        "new_type": 0,
         "ename": 190,
         "cname": "诸葛亮",
-        "title": "绝代智谋",
         "hero_type": 2,
-        "new_type": 0
+        "title": "绝代智谋"
     },
     {
+        "new_type": 0,
         "ename": 180,
         "cname": "哪吒",
-        "title": "桀骜炎枪",
         "hero_type": 1,
-        "new_type": 0
+        "title": "桀骜炎枪"
     },
     {
+        "new_type": 0,
         "ename": 186,
         "cname": "太乙真人",
-        "title": "炼金大师",
         "hero_type": 6,
-        "new_type": 0
+        "title": "炼金大师"
     },
     {
+        "new_type": 0,
         "ename": 178,
         "cname": "杨戬",
-        "title": "根源之目",
         "hero_type": 1,
-        "new_type": 0
+        "title": "根源之目"
     },
     {
+        "new_type": 0,
         "ename": 177,
         "cname": "成吉思汗",
-        "title": "苍狼末裔",
         "hero_type": 5,
-        "new_type": 0
+        "title": "苍狼末裔"
     },
     {
+        "new_type": 0,
         "ename": 163,
         "cname": "橘右京",
-        "title": "神梦一刀",
         "hero_type": 1,
-        "new_type": 0
+        "title": "神梦一刀"
     },
     {
+        "new_type": 0,
         "ename": 132,
         "cname": "马可波罗",
-        "title": "远游之枪",
         "pay_type": 10,
         "hero_type": 5,
-        "new_type": 0
+        "title": "远游之枪"
     },
     {
+        "new_type": 0,
         "ename": 183,
         "cname": "雅典娜",
-        "title": "圣域余晖",
         "hero_type": 1,
-        "new_type": 0
+        "title": "圣域余晖",
+        "skin_names": [
+            "经典",
+            "战争女神"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 126,
         "cname": "夏侯惇",
-        "title": "不羁之风",
         "pay_type": 10,
         "hero_type": 1,
-        "new_type": 0
+        "title": "不羁之风",
+        "skin_names": [
+            "经典",
+            "战争骑士"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 184,
         "cname": "蔡文姬",
-        "title": "天籁弦音",
         "hero_type": 6,
-        "new_type": 0
+        "title": "天籁弦音",
+        "skin_names": [
+            "经典",
+            "蔷薇王座"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 140,
         "cname": "关羽",
-        "title": "一骑当千",
         "hero_type": 1,
-        "new_type": 0
+        "title": "一骑当千",
+        "skin_names": [
+            "经典",
+            "天启骑士"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 174,
         "cname": "虞姬",
-        "title": "森之风灵",
         "hero_type": 5,
-        "new_type": 0
+        "title": "森之风灵",
+        "skin_names": [
+            "经典",
+            "加勒比小姐"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 142,
         "cname": "安琪拉",
-        "title": "暗夜萝莉",
         "hero_type": 2,
-        "new_type": 0
+        "title": "暗夜萝莉",
+        "skin_names": [
+            "经典",
+            "玩偶对对碰",
+            "魔法小厨娘"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 135,
         "cname": "项羽",
-        "title": "霸王",
         "hero_type": 3,
-        "new_type": 0
+        "title": "霸王",
+        "skin_names": [
+            "经典",
+            "帝国元帅",
+            "苍穹之光",
+            "海滩派对",
+            "职棒王牌"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 169,
         "cname": "后羿",
-        "title": "半神之月",
         "hero_type": 5,
-        "new_type": 0
+        "title": "半神之月",
+        "skin_names": [
+            "经典",
+            "精灵王",
+            "精灵王"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 114,
         "cname": "刘禅",
-        "title": "暴走机关",
         "hero_type": 3,
-        "new_type": 0
+        "title": "暴走机关",
+        "skin_names": [
+            "经典",
+            "英喵野望",
+            "绅士熊喵"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 152,
         "cname": "王昭君",
-        "title": "冰雪之华",
         "pay_type": 10,
         "hero_type": 2,
-        "new_type": 0
+        "title": "冰雪之华",
+        "skin_names": [
+            "经典",
+            "精灵公主",
+            "我是歌手"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 107,
         "cname": "赵云",
-        "title": "苍天翔龙",
         "hero_type": 1,
-        "new_type": 0
+        "title": "苍天翔龙",
+        "skin_names": [
+            "经典",
+            "忍·炎影",
+            "未来纪元",
+            "皇家上将",
+            "嘻哈天王",
+            "白执事"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 154,
         "cname": "花木兰",
-        "title": "传说之刃",
         "hero_type": 1,
-        "new_type": 0
+        "title": "传说之刃",
+        "skin_names": [
+            "经典",
+            "剑舞者",
+            "兔女郎"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 133,
         "cname": "狄仁杰",
-        "title": "断案大师",
         "pay_type": 11,
         "hero_type": 5,
-        "new_type": 0
+        "title": "断案大师",
+        "skin_names": [
+            "经典",
+            "锦衣卫",
+            "魔术师",
+            "超时空战士",
+            "阴阳师"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 150,
         "cname": "韩信",
-        "title": "国士无双",
         "hero_type": 4,
-        "new_type": 0
+        "title": "国士无双",
+        "skin_names": [
+            "经典",
+            "街头霸王",
+            "教廷特使"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 108,
         "cname": "墨子",
-        "title": "和平守望",
         "hero_type": 3,
-        "new_type": 0
+        "title": "和平守望",
+        "skin_names": [
+            "经典",
+            "金属风暴",
+            "龙骑士"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 112,
         "cname": "鲁班七号",
-        "title": "机关造物",
         "pay_type": 11,
         "hero_type": 5,
-        "new_type": 0
+        "title": "机关造物",
+        "skin_names": [
+            "经典",
+            "木偶奇遇记",
+            "福禄兄弟",
+            "电玩小子"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 130,
         "cname": "宫本武藏",
-        "title": "剑圣",
         "hero_type": 1,
-        "new_type": 0
+        "title": "剑圣",
+        "skin_names": [
+            "经典",
+            "鬼武者",
+            "合金装备",
+            "万象初新",
+            "地狱之眼"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 168,
         "cname": "牛魔",
-        "title": "精英酋长",
         "pay_type": 10,
         "hero_type": 3,
-        "new_type": 0
+        "title": "精英酋长",
+        "skin_names": [
+            "经典",
+            "西部大镖客"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 141,
         "cname": "貂蝉",
-        "title": "绝世舞姬",
         "hero_type": 2,
-        "new_type": 0
+        "title": "绝世舞姬",
+        "skin_names": [
+            "经典",
+            "异域舞娘",
+            "圣诞恋歌"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 129,
         "cname": "典韦",
-        "title": "狂战士",
         "hero_type": 1,
-        "new_type": 0
+        "title": "狂战士",
+        "skin_names": [
+            "经典",
+            "黄金武士"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 106,
         "cname": "小乔",
-        "title": "恋之微风",
         "hero_type": 2,
-        "new_type": 0
+        "title": "恋之微风",
+        "skin_names": [
+            "经典",
+            "万圣前夜",
+            "天鹅之梦",
+            "纯白花嫁"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 127,
         "cname": "甄姬",
-        "title": "洛神降临",
         "pay_type": 10,
         "hero_type": 2,
-        "new_type": 0
+        "title": "洛神降临",
+        "skin_names": [
+            "经典",
+            "冰雪奇缘",
+            "花好人间"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 109,
         "cname": "妲己",
-        "title": "魅惑之狐",
         "pay_type": 11,
         "hero_type": 2,
-        "new_type": 0
+        "title": "魅惑之狐",
+        "skin_names": [
+            "经典",
+            "女仆咖啡",
+            "魅力维加斯",
+            "仙境爱丽丝",
+            "热情桑巴"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 118,
         "cname": "孙膑",
-        "title": "逆流之时",
         "hero_type": 6,
-        "new_type": 0
+        "title": "逆流之时",
+        "skin_names": [
+            "经典",
+            "未来旅行",
+            "天使之翼"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 136,
         "cname": "武则天",
-        "title": "女帝",
         "hero_type": 2,
-        "new_type": 0
+        "title": "女帝",
+        "skin_names": [
+            "经典",
+            "东方不败",
+            "海洋之心"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 115,
         "cname": "高渐离",
-        "title": "叛逆吟游",
         "hero_type": 2,
-        "new_type": 0
+        "title": "叛逆吟游",
+        "skin_names": [
+            "经典",
+            "鬼泣"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 123,
         "cname": "吕布",
-        "title": "无双之魔",
         "hero_type": 1,
-        "new_type": 0
+        "title": "无双之魔",
+        "skin_names": [
+            "经典",
+            "圣诞狂欢",
+            "天魔缭乱",
+            "末日机甲"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 167,
         "cname": "孙悟空",
-        "title": "齐天大圣",
         "hero_type": 1,
-        "new_type": 0
+        "title": "齐天大圣",
+        "skin_names": [
+            "经典",
+            "地狱火",
+            "荒野大镖客",
+            "美猴王"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 111,
         "cname": "孙尚香",
-        "title": "千金重弩",
         "hero_type": 5,
-        "new_type": 0
+        "title": "千金重弩",
+        "skin_names": [
+            "经典",
+            "火炮千金",
+            "水果甜心",
+            "蔷薇恋人",
+            "杀手不太冷"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 134,
         "cname": "达摩",
-        "title": "拳僧",
         "hero_type": 1,
-        "new_type": 0
+        "title": "拳僧",
+        "skin_names": [
+            "经典",
+            "拳皇",
+            "大发明家"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 144,
         "cname": "程咬金",
-        "title": "热烈之斧",
         "hero_type": 3,
-        "new_type": 0
+        "title": "热烈之斧",
+        "skin_names": [
+            "经典",
+            "爱与正义",
+            "超能陆战队",
+            "华尔街大亨"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 119,
         "cname": "扁鹊",
-        "title": "善恶怪医",
         "hero_type": 2,
-        "new_type": 0
+        "title": "善恶怪医",
+        "skin_names": [
+            "经典",
+            "红莲之瞳",
+            "化身博士"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 166,
         "cname": "亚瑟",
-        "title": "圣骑之力",
         "pay_type": 11,
         "hero_type": 1,
-        "new_type": 0
+        "title": "圣骑之力",
+        "skin_names": [
+            "经典",
+            "死亡骑士",
+            "狮心王"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 116,
         "cname": "荆轲",
-        "title": "死亡之刃",
         "pay_type": 10,
         "hero_type": 4,
-        "new_type": 0
+        "title": "死亡之刃",
+        "skin_names": [
+            "经典",
+            "爱心护理",
+            "性感猫娘",
+            "致命诱惑"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 148,
         "cname": "姜子牙",
-        "title": "太古魔导",
         "hero_type": 2,
-        "new_type": 0
+        "title": "太古魔导",
+        "skin_names": [
+            "经典",
+            "时尚教父"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 124,
         "cname": "周瑜",
-        "title": "铁血都督",
         "hero_type": 2,
-        "new_type": 0
+        "title": "铁血都督",
+        "skin_names": [
+            "经典",
+            "海军大将",
+            "真爱至上"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 139,
         "cname": "老夫子",
-        "title": "万古长明",
         "hero_type": 1,
-        "new_type": 0
+        "title": "万古长明",
+        "skin_names": [
+            "经典",
+            "潮流仙人",
+            "圣诞老人"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 110,
         "cname": "嬴政",
-        "title": "王者独尊",
         "hero_type": 2,
-        "new_type": 0
+        "title": "王者独尊",
+        "skin_names": [
+            "经典",
+            "摇滚巨星",
+            "暗夜贵公子",
+            "优雅恋人"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 128,
         "cname": "曹操",
-        "title": "鲜血枭雄",
         "hero_type": 1,
-        "new_type": 0
+        "title": "鲜血枭雄",
+        "skin_names": [
+            "经典",
+            "超能战警",
+            "幽灵船长",
+            "死神来了"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 113,
         "cname": "庄周",
-        "title": "逍遥梦幻",
         "hero_type": 3,
-        "new_type": 0
+        "title": "逍遥梦幻",
+        "skin_names": [
+            "经典",
+            "鲤鱼之梦",
+            "蜃楼王"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 156,
         "cname": "张良",
-        "title": "言灵之书",
         "hero_type": 2,
-        "new_type": 0
+        "title": "言灵之书",
+        "skin_names": [
+            "经典",
+            "天堂福音",
+            "波斯王子"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 117,
         "cname": "钟无艳",
-        "title": "野蛮之锤",
         "hero_type": 1,
-        "new_type": 0
+        "title": "野蛮之锤",
+        "skin_names": [
+            "经典",
+            "生化危机",
+            "王者之锤"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 121,
         "cname": "芈月",
-        "title": "永恒之月",
         "hero_type": 2,
-        "new_type": 0
+        "title": "永恒之月",
+        "skin_names": [
+            "经典",
+            "红桃皇后",
+            "大秦宣太后"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 146,
         "cname": "露娜",
-        "title": "月光之女",
         "hero_type": 1,
-        "new_type": 0
+        "title": "月光之女",
+        "skin_names": [
+            "经典",
+            "哥特玫瑰",
+            "绯红之刃",
+            "紫霞仙子"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 105,
         "cname": "廉颇",
-        "title": "正义爆轰",
         "hero_type": 3,
-        "new_type": 0
+        "title": "正义爆轰",
+        "skin_names": [
+            "经典",
+            "地狱岩魂"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 120,
         "cname": "白起",
-        "title": "最终兵器",
         "hero_type": 3,
-        "new_type": 0
+        "title": "最终兵器",
+        "skin_names": [
+            "经典",
+            "白色死神"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 171,
         "cname": "张飞",
-        "title": "禁血狂兽",
         "hero_type": 3,
-        "new_type": 0
+        "title": "禁血狂兽",
+        "skin_names": [
+            "经典",
+            "五福同心",
+            "乱世虎臣"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 170,
         "cname": "刘备",
-        "title": "仁德义枪",
         "hero_type": 5,
-        "new_type": 0
+        "title": "仁德义枪",
+        "skin_names": [
+            "经典",
+            "万事如意",
+            "黑帮教父"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 153,
         "cname": "兰陵王",
-        "title": "暗影刀锋",
         "hero_type": 4,
-        "new_type": 0
+        "title": "暗影刀锋",
+        "skin_names": [
+            "经典",
+            "刺客信条"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 162,
         "cname": "娜可露露",
-        "title": "鹰之守护",
         "hero_type": 4,
-        "new_type": 0
+        "title": "鹰之守护",
+        "skin_names": [
+            "经典"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 131,
         "cname": "李白",
-        "title": "青莲剑仙",
         "hero_type": 4,
-        "new_type": 0
+        "title": "青莲剑仙",
+        "skin_names": [
+            "经典",
+            "范海辛",
+            "千年之狐"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 175,
         "cname": "钟馗",
-        "title": "虚灵城判",
         "hero_type": 2,
-        "new_type": 0
+        "title": "虚灵城判",
+        "skin_names": [
+            "经典",
+            "地府判官"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 173,
         "cname": "李元芳",
-        "title": "王都密探",
         "hero_type": 5,
-        "new_type": 0
+        "title": "王都密探",
+        "skin_names": [
+            "经典",
+            "特种部队"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 149,
         "cname": "刘邦",
-        "title": "双面君主",
         "pay_type": 10,
         "hero_type": 3,
-        "new_type": 0
+        "title": "双面君主",
+        "skin_names": [
+            "经典",
+            "圣殿之光"
+        ]
     },
     {
+        "new_type": 0,
         "ename": 157,
         "cname": "不知火舞",
-        "title": "明媚烈焰",
         "hero_type": 2,
-        "new_type": 0
+        "title": "明媚烈焰",
+        "skin_names": [
+            "经典"
+        ]
     }
 ]
