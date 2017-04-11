@@ -1,4 +1,11 @@
-[
+[  
+    {
+        "ename": 187,
+        "cname": "东皇太一",
+        "title": "噬灭日蚀",
+        "hero_type": 2,
+        "new_type": 1
+    },
     {
         "new_type": 1,
         "ename": 191,
